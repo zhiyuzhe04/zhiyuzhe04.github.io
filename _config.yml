@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 徐嘉诚赛格
 subtitle: ''
 description: ''
 keywords:
@@ -13,12 +13,12 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/zhiyuzhe04/zhiyuzhe04.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: true # Set to true to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to true to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
